@@ -5,13 +5,11 @@
 
 ## 🚀 Project Link
 
-[Airbnb Impact of Regulations](#)
-
-> *(Add your actual project/demo link here)*
+[Airbnb Impact of Regulations](https://www.kaggle.com/code/samarthharde/airbnb-project)
 
 ---
 
-![](airbnb_image.jpg)
+![](AirBnB_image.png)
 
 
 
