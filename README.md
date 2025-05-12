@@ -20,58 +20,52 @@ Airbnb is a platform that allows people to rent out their properties to traveler
 
 ---
 
+
 ## 📂 Dataset
 
-The dataset contains Airbnb data for over **250,000 listings** across **10 major cities** and more than **5 million guest reviews**.
+This project uses Airbnb data for **250,000+ listings** across **10 major cities** and over **5 million guest reviews**.
 
-### Files Included:
-- **`listings.csv`** – Contains detailed information about each listing (host, location, pricing, room type, etc.).
-- **`reviews.csv`** – Includes guest reviews (review text, date, reviewer details).
+- **listings.csv**: Contains detailed information about each listing (host, location, pricing, room type, etc.).
+- **reviews.csv**: Includes guest reviews (review text, date, reviewer details).
 
-- Dataset Source : [AirBnB Listing and Review Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
+**Source**: [Airbnb Listing and Review Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
+
 ---
-
 
 ## 🛠 Technologies Used
 
-- Python (Pandas, Matplotlib, Seaborn)
+- **Python**: Pandas, Matplotlib, Seaborn
 
-  
 ---
-
-
 
 ## 📊 Insights
 
 1. **Initial Growth**  
-   After Airbnb's launch, listings and prices grew rapidly due to early adoption.
+   Rapid growth in listings and prices after the launch due to early adoption.
 
 2. **Market Saturation**  
-   As Airbnb became widely known, listings kept increasing, but prices began to fall due to increased supply.
+   As Airbnb became more widely known, listings increased, but prices began to fall due to an oversupply.
 
 3. **Regulatory Impact (2015)**  
-   Regulations caused uncertainty, leading to a drop in the number of listings and a rise in prices.
+   Regulations caused uncertainty, leading to a drop in listings and an increase in prices.
 
 4. **Post-Regulation Recovery (2019)**  
-   Once regulations stabilized, listings grew again, and prices fell due to higher supply.
+   After regulatory stabilization, listings grew again, and prices fell due to higher supply.
 
 ---
 
 ## ✅ Recommendations
 
 - **Monitor Local Regulations**  
-  Watch for similar regulations in other areas and prepare in advance.
+  Stay ahead of potential regulations and prepare accordingly.
 
 - **Limit Listings Per Area**  
-  Avoid overcrowding and reduce chances of government interference.
+  Prevent overcrowding and reduce the likelihood of government interference.
 
 - **Strict Host Onboarding**  
-  Ensure hosts meet quality and legal standards to maintain customer trust.
+  Ensure hosts meet quality standards and legal requirements to maintain customer trust.
 
 - **Maintain User Experience**  
-  Avoid service disruption due to regulations, which can hurt brand perception.
-
-
-
+  Avoid service disruptions due to regulations, which can negatively affect brand perception.
 
 
