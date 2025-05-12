@@ -11,7 +11,7 @@
 
 ---
 
-![](AirBnB.png)
+![](airbnb_image.jpg)
 
 
 
