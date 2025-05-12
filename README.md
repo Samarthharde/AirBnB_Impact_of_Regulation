@@ -28,8 +28,7 @@ The dataset contains Airbnb data for over **250,000 listings** across **10 major
 - **`listings.csv`** – Contains detailed information about each listing (host, location, pricing, room type, etc.).
 - **`reviews.csv`** – Includes guest reviews (review text, date, reviewer details).
 
-**Dataset Source**: Airbnb Listing and Review Dataset
-
+- Dataset Source : [AirBnB Listing and Review Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
 ---
 
 
